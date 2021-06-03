@@ -1,0 +1,28 @@
+{
+  "emotes": {
+    "passed_check": "<:passed_check:849543604316930048>",
+    "failed_check": "<:failed_check:849543603911262238>",
+    "passed_check_lowest": "<:passed_check_lowest:849543603801292820>",
+    "failed_check_lowest": "<:failed_check_lowest:849543603977322496>",
+    "passed_check_highest": "<:passed_check_highest:849543603830652938>",
+    "failed_check_highest": "<:failed_check_highest:849543603839696906>"
+  },
+  "attributes": {
+    "TOXICITY": { "threshold": 0.5 },
+    "SEVERE_TOXICITY": { "threshold": 0.5 },
+    "IDENTITY_ATTACK": { "threshold": 0.5 },
+    "INSULT": { "threshold": 0.5 },
+    "PROFANITY": { "threshold": 0.5 },
+    "THREAT": { "threshold": 0.5 },
+    "SEXUALLY_EXPLICIT": { "threshold": 0.5 },
+    "FLIRTATION": { "threshold": 0.5 },
+    "ATTACK_ON_AUTHOR": { "threshold": 0.8 },
+    "ATTACK_ON_COMMENTER": { "threshold": 0.8 },
+    "INCOHERENT": { "threshold": 1 },
+    "INFLAMMATORY": { "threshold": 0.8 },
+    "LIKELY_TO_REJECT": { "threshold": 1 },
+    "OBSCENE": { "threshold": 0.8 },
+    "SPAM": { "threshold": 0.8 },
+    "UNSUBSTANTIAL": { "threshold": 1 }
+  }
+}
